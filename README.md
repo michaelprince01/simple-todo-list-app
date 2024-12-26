@@ -1,0 +1,1 @@
+A Simple todolist app built with just html, vanilla css and vanilla javascipt that has the functionality of adding, deleting and checking off a task when completed. We also use Localstorage as a database for saving the todo items.
